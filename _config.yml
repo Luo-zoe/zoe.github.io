@@ -20,10 +20,10 @@ locale: en-US
 title: "My Awesome Site"
 description: "It really is the best."
 baseurl: # the subpath of your site, e.g. "/blog"
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: "https://Luo-zoe.github.io/zoe.github.io"
 logo: # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
-read_time: # reading time estimates, e.g. true
+read_time: true
 words_per_minute: # 200
 mathjax:
   enable: # MathJax equations, e.g. true, false (default)
